@@ -2,7 +2,7 @@ import streamlit as st
 import random
 from PIL import Image 
 
-x = 3    # ←問題数の合計を入力！　問題が増えたら、変更を！
+x = 6    # ←問題数の合計を入力！　問題が増えたら、変更を！
 
 st.title("積分ランダム演習(仮）")
 
